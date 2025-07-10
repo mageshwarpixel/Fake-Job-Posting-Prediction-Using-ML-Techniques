@@ -5,9 +5,13 @@ Due to Covid-19 Pandemic, Every sector has moved to virtual mode including recru
 
 ### Technical Modules
 1)Data validation and pre-processing technique.
+
 2)Data visualization.
+
 3)Performance measurements of ML algorithms.
+
 4)Implementation of LSTM model for training and testing
+
 5)Build a model for LSTM Neural Network.
 
 
